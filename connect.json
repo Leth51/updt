@@ -1,6 +1,5 @@
 {
-  "status": "true",
-  "message": "OK",
+  "status": true,
   "keys": {
     "LethaHack4": "2026-01-27"
   }
