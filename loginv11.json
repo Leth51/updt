@@ -2,37 +2,37 @@
   "maintenance": false,
   "message": "Mod Maintenance Break",
   "keys": {
-    "@Letha77777k": {
+    "Key1": {
       "status": "valid",
-      "expiry": "2030-01-28T00:00:00"
+      "expiry": "2030-01-01T00:00:00"
     },
-    "LETHA333": {
+    "Key2": {
       "status": "valid",
-      "expiry": "2025-12-20T00:00:00"
+      "expiry": "2030-01-01T00:00:00"
     },
-    "LETHAHACK-x4-DFGZAED7G": {
+    "Key3": {
       "status": "valid",
-      "expiry": "2026-01-27T00:00:00"
+      "expiry": "2030-01-01T00:00:00"
     },
-    "LETHAHACK-7D-Hj5Tn": {
+    "Key4": {
       "status": "valid",
-      "expiry": "2026-01-07T00:00:00"
+      "expiry": "2030-01-01T00:00:00"
     },
-    "LETHAHACK-7DAY-VEfPH2": {
+    "Key5": {
       "status": "valid",
-      "expiry": "2026-02-15T00:00:00"
+      "expiry": "2030-01-01T00:00:00"
     },
-    "LETHAHACK-1D-DENEME17YHEYHP": {
+    "Key6": {
       "status": "valid",
-      "expiry": "2026-01-14T00:00:00"
+      "expiry": "2030-01-01T00:00:00"
     },
-    "LETHAHACK-7D-HAW44N2": {
+    "Key7": {
       "status": "valid",
-      "expiry": "2026-01-20T00:00:00"
+      "expiry": "2030-01-01T00:00:00"
     },
-    "LETHAHACK-1D-FAV4JA9O": {
+    "Key8": {
       "status": "valid",
-      "expiry": "2026-01-15T00:00:00"
+      "expiry": "2030-01-01T00:00:00"
 
     },
     "LETHAHACK-1D-6gHNT9": {
